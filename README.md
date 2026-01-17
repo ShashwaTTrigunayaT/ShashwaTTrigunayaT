@@ -17,11 +17,9 @@
 
 ---
 
-### 🏆 Achievements
+### 🔥 Coding Streak
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShashwaTTrigunayaT&theme=darkhub&no-frame=true&margin-w=15" alt="trophy" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwaTTrigunayaT&theme=dark&hide_border=true&ring=0F9D58&fire=0F9D58&currStreakLabel=0F9D58" alt="streak" />
 </div>
 
 ---
@@ -61,15 +59,15 @@
 
 ---
 
-### 📈 Coding Activity
+### 📈 Coding Activity & Stats
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwaTTrigunayaT&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=0F9D58" width="100%" alt="activity-graph" />
 </div>
 
 <div align="center">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&theme=darkhub&hide_border=true&count_private=true" alt="Shashwat's Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&theme=darkhub&hide_border=true" alt="Top Langs" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&hide_border=true&count_private=true&title_color=0F9D58&icon_color=0F9D58&text_color=ffffff&bg_color=0D1117" alt="Shashwat's Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&hide_border=true&title_color=0F9D58&text_color=ffffff&bg_color=0D1117" alt="Top Langs" height="150" />
 </div>
 
 <div align="center">
