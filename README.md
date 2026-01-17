@@ -10,7 +10,7 @@
 
   <p align="center"> 
     <i>"Turning complex problems into scalable solutions."</i><br>
-    Biomedical Engineering Undergrad @ <b>NIT Raipur</b>
+     Engineering Undergrad @ <b>NIT Raipur</b>
   </p>
 
 </div>
@@ -57,21 +57,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Coding Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwaTTrigunayaT&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=0F9D58" width="100%" alt="activity-graph" />
 </div>
 
-### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/ShashwaTTrigunayaT/ShashwaTTrigunayaT/output/github-contribution-grid-snake.svg" alt="snake" />
+<div align="center">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&theme=darkhub&hide_border=true&count_private=true" alt="Shashwat's Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&theme=darkhub&hide_border=true" alt="Top Langs" height="150" />
+</div>
 
 <div align="center">
   <br>
   <a href="https://linkedin.com/in/shashwattrigunayat">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shashwattrigunayato4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
