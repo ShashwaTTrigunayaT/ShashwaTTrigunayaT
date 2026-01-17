@@ -1,34 +1,36 @@
 <div align="center">
-  
-  # Hi, I'm Shashwat Prasad Trigunayat! 👨‍💻
-  
-  ### Full Stack Developer | Open Source Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=250&section=header&text=Shashwat%20Prasad%20Trigunayat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevNexus%20Architect%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=60" alt="header" width="100%" />
+</div>
 
+<div align="center">
+  
+  ### 🚀 Building the Future of Collaborative Coding
+  
   <a href="https://github.com/ShashwaTTrigunayaT">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=Building+DevNexus+IDE;MERN+Stack+Developer;System+Design+%26+Scalability;Docker+%26+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F9D58&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;System+Design+Enthusiast;Docker+%26+Cloud+Native;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
-  <p align="center"> 
-    <i>"Turning complex problems into scalable solutions."</i><br>
-     Engineering Undergrad @ <b>NIT Raipur</b>
-  </p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ShashwaTTrigunayaT&label=Profile%20Views&color=0F9D58&style=flat" alt="views" />
 
 </div>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently building **DevNexus**, a real-time collaborative IDE with **AI integration**.
-- 💼 **Experience:** Built **CampusSphere**, an academic platform active with **50+ users** at NIT Raipur.
-- 💬 Ask me about **WebSockets, Redis Pub/Sub, and Sandboxed Execution**.
+### 🏆 Achievements
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShashwaTTrigunayaT&theme=darkhub&no-frame=true&margin-w=15" alt="trophy" />
+  </a>
+</div>
 
 ---
 
-### 🛠 Tech Stack & Architecture
+### 🛠 Architecture & Tech Stack
 
 <div align="center">
 
-| **Core** | **Frontend** | **Backend** | **DevOps & Tools** |
+| **Core** | **Frontend** | **Backend** | **DevOps** |
 | :---: | :---: | :---: | :---: |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
@@ -38,20 +40,22 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Engineering Highlights
 
-#### 🚀 [DevNexus - Real-Time Collaborative IDE](https://github.com/ShashwaTTrigunayaT/DevNexus)
+#### 🚀 DevNexus - Real-Time Collaborative IDE
 *A high-performance IDE for simultaneous coding and secure remote execution.*
 
-**System Architecture & Engineering Depth:**
-> **⚡ Scaling WebSockets:** Implemented **Redis Pub/Sub** to synchronize events across server nodes, solving the "local RAM" limitation.
->
-> **🔒 Secure Sandboxing:** Decoupled execution engine using **Docker containers** (via Piston API) to strictly isolate user scripts.
->
-> **💾 Write-Through Caching:** Reduced DB I/O by caching "hot" code states in **Redis** and flushing to MongoDB only on session exit.
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashwaTTrigunayaT/DevNexus)
 
-#### 🏫 [CampusSphere](https://github.com/ShashwaTTrigunayaT/CampusSphere)
+> **⚡ Complexity:** Solved the "Socket Scaling" problem using **Redis Pub/Sub** to synchronize state across multiple server nodes.
+>
+> **🔒 Security:** Implemented a **Dockerized Sandbox** to execute user code in isolation, preventing host attacks.
+
+#### 🏫 CampusSphere
 *A Full-Stack academic event platform active at NIT Raipur.*
+
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashwaTTrigunayaT/CampusSphere)
+
 - **Impact:** Consolidated fests & hackathons for **50+ active users**.
 - **Optimization:** Engineered regex filtering with **sub-500ms latency** & Server-Side Pagination.
 
@@ -76,4 +80,6 @@
   <a href="mailto:shashwattrigunayato4@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=100&section=footer" width="100%" />
 </div>
