@@ -17,14 +17,16 @@
 
 ---
 
-### 🔥 Coding Streak
+### 💻 Technical Arsenal
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwaTTrigunayaT&theme=dark&hide_border=true&ring=0F9D58&fire=0F9D58&currStreakLabel=0F9D58" alt="streak" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redis,docker,cpp,python,git,linux,postman,vscode&perline=12&theme=dark" />
+  </a>
 </div>
 
 ---
 
-### 🛠 Architecture & Tech Stack
+### 🛠 Architecture & Tech Stack Details
 
 <div align="center">
 
@@ -59,15 +61,15 @@
 
 ---
 
-### 📈 Coding Activity & Stats
+### 📈 Coding Metrics
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwaTTrigunayaT&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=0F9D58" width="100%" alt="activity-graph" />
 </div>
 
 <div align="center">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&hide_border=true&count_private=true&title_color=0F9D58&icon_color=0F9D58&text_color=ffffff&bg_color=0D1117" alt="Shashwat's Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&hide_border=true&title_color=0F9D58&text_color=ffffff&bg_color=0D1117" alt="Top Langs" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&hide_border=true&count_private=true&theme=darkhub" alt="Shashwat's Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&hide_border=true&theme=darkhub" alt="Top Langs" height="150" />
 </div>
 
 <div align="center">
