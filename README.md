@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 🚀 Building the Future of Collaborative Coding
+  ###  Building the Future of Collaborative Coding
   
   <a href="https://github.com/ShashwaTTrigunayaT">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F9D58&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;System+Design+Enthusiast;Docker+%26+Cloud+Native;Open+Source+Contributor" alt="Typing SVG" />
@@ -74,10 +74,10 @@
 
 <div align="center">
   <br>
-  <a href="https://linkedin.com/in/shashwattrigunayat">
+  <a href="https://www.linkedin.com/in/shashwat-trigunayat-7279342b7/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shashwattrigunayato4@gmail.com">
+  <a href="mailto:shashwattrigunayat04@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
