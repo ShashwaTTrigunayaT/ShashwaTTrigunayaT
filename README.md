@@ -1,85 +1,49 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=250&section=header&text=Shashwat%20Prasad%20Trigunayat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AetherStudio%20Architect%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=60" alt="header" width="100%" />
-</div>
-
-<div align="center">
-  
-  ###  Building the Future of Collaborative Coding
-  
-  <a href="https://github.com/ShashwaTTrigunayaT">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F9D58&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;System+Design+Enthusiast;Docker+%26+Cloud+Native;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ShashwaTTrigunayaT&label=Profile%20Views&color=0F9D58&style=flat" alt="views" />
-
+<div align=center>
+<picture>
+<source media=p says-color-scheme:dark srcset=https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,100:b89450&height=280&section=header&text=Shashwat+Trigunayat&fontSize=40&fontColor=f5f5f7&animation=fadeIn&fontAlignY=35&desc=AetherStudio+Architect+%7C+Full+Stack+Engineer&descSize=18&descAlignY=60>
+<img src=https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,100:b89450&height=280&section=header&text=Shashwat+Trigunayat&fontSize=40&fontColor=f5f5f7&animation=fadeIn&fontAlignY=35&desc=AetherStudio+Architect+%7C+Full+Stack+Engineer&descSize=18&descAlignY=60 width=100% />
+</picture>
 </div>
 
 ---
 
-### 💻 Technical Arsenal
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redis,docker,cpp,python,git,linux,postman,vscode&perline=12&theme=dark" />
-  </a>
-</div>
+## AetherStudio
+
+Production-Grade Collaborative IDE. Real-time editing, AI assistance, sandboxed execution.
+
+Tech: React 18, Node.js, Express, MongoDB, Redis, Docker, Monaco Editor, Yjs CRDT
+
+Key features: Socket scaling via Redis Pub/Sub, Docker sandboxed code execution (512MB RAM), Sub-50ms sync
 
 ---
 
-### 🛠 Architecture & Tech Stack Details
+## Tech Stack
 
-<div align="center">
-
-| **Core** | **Frontend** | **Backend** | **DevOps** |
-| :---: | :---: | :---: | :---: |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
-
-</div>
+Frontend: React 18, Vite, Tailwind CSS, Framer Motion, Monaco Editor, xterm.js
+Backend: Node.js, Express, Socket.IO, JWT, bcrypt, node-pty, chokidar
+Infra: MongoDB, Redis, Docker, nginx
+Tools: WebRTC, Yjs CRDT, Gemini Pro AI, pino, nodemailer
+Languages: C++, Python, JavaScript, TypeScript
 
 ---
 
-### 📂 Engineering Highlights
+## Projects
 
-#### 🚀 AetherStudio - Real-Time Collaborative IDE
-*A high-performance IDE for simultaneous coding and secure remote execution.*
+**AetherStudio** - Real-Time Collaborative IDE
+Yjs CRDT, Socket.IO, Redis Pub/Sub, Docker Sandbox, Gemini Pro AI, WebRTC
+[View Code](https://github.com/ShashwaTTrigunayaT/AetherStudio)
 
-[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashwaTTrigunayaT/AetherStudio)
-
-> **⚡ Complexity:** Solved the "Socket Scaling" problem using **Redis Pub/Sub** to synchronize state across multiple server nodes.
->
-> **🔒 Security:** Implemented a **Dockerized Sandbox** to execute user code in isolation, preventing host attacks.
-
-#### 🏫 CampusSphere
-*A Full-Stack academic event platform active at NIT Raipur.*
-
-[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashwaTTrigunayaT/CampusSphere)
-
-- **Impact:** Consolidated fests & hackathons for **50+ active users**.
-- **Optimization:** Engineered regex filtering with **sub-500ms latency** & Server-Side Pagination.
+**CampusSphere** - Academic Event Platform @ NIT Raipur
+MERN, Regex Filtering, Server-Side Pagination, 50+ Active Users
+[View Code](https://github.com/ShashwaTTrigunayaT/CampusSphere)
 
 ---
 
-### 📈 Coding Metrics
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwaTTrigunayaT&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=0F9D58" width="100%" alt="activity-graph" />
-</div>
+## GitHub Stats
 
-<div align="center">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&hide_border=true&count_private=true&theme=darkhub" alt="Shashwat's Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&hide_border=true&theme=darkhub" alt="Top Langs" height="150" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&count_private=true&theme=dark&title_color=b89450&icon_color=b89450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&theme=dark&title_color=b89450)
 
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/shashwat-trigunayat-7279342b7/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shashwattrigunayat04@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=100&section=footer" width="100%" />
-</div>
+---
+
+*AetherStudio - Build Together, Ship Faster*
