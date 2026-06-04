@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=250&section=header&text=Shashwat%20Prasad%20Trigunayat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevNexus%20Architect%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=60" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=250&section=header&text=Shashwat%20Prasad%20Trigunayat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AetherStudio%20Architect%20%7C%20Full%20Stack%20Engineer&descSize=20&descAlignY=60" alt="header" width="100%" />
 </div>
 
 <div align="center">
@@ -42,10 +42,10 @@
 
 ### 📂 Engineering Highlights
 
-#### 🚀 DevNexus - Real-Time Collaborative IDE
+#### 🚀 AetherStudio - Real-Time Collaborative IDE
 *A high-performance IDE for simultaneous coding and secure remote execution.*
 
-[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashwaTTrigunayaT/DevNexus)
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashwaTTrigunayaT/AetherStudio)
 
 > **⚡ Complexity:** Solved the "Socket Scaling" problem using **Redis Pub/Sub** to synchronize state across multiple server nodes.
 >
