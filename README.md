@@ -95,13 +95,13 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShashwaTTrigunayaT&theme=dark&background=0a0a0c&stroke=b89450&ring=b89450&fire=d4bc80&currStreakNum=b89450&sideNums=b89450&currStreakLabel=b89450&sideLabels=rgba(255,255,255,0.3)&dates=rgba(255,255,255,0.3)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShashwaTTrigunayaT&theme=dark&background=0a0a0c&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashwaTTrigunayaT&theme=darkhub&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" width="95%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashwaTTrigunayaT&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true" width="95%" alt="GitHub Trophies" />
 </div>
 
 ---
