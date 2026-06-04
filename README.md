@@ -25,7 +25,6 @@
 <div align="center">
   <h2>&#9670; AetherStudio</h2>
   <p><em>Production-Grade Collaborative IDE &mdash; Replit &times; VS Code</em></p>
-
   <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/MongoDB-6.0-47A248?style=flat-square&logo=mongodb" />
@@ -36,23 +35,18 @@
   <img src="https://img.shields.io/badge/Yjs_CRDT-%E2%9C%93-b89450?style=flat-square" />
   <img src="https://img.shields.io/badge/Gemini_Pro_AI-%E2%9C%93-4285F4?style=flat-square" />
   <img src="https://img.shields.io/badge/WebRTC-%E2%9C%93-b89450?style=flat-square" />
-  <img src="https://img.shields.io/badge/12%2B_Languages-%E2%9C%93-b89450?style=flat-square" />
 </div>
 
-<br/>
-| Sync Latency | Sandbox Limit | Languages |
-|:-----------:|:------------:|:--------:|
-| **<50ms** Yjs CRDT | **512MB** RAM per Container | **12+** Docker Exec |
+| | | |
+|:-:|:-:|:-:|
+| **&lt; 50ms** Sync | **512 MB** Sandbox | **12+** Languages |
+| Yjs CRDT Conflict-Free | Docker Isolated | Node, Python, C++ & more |
 
 <br/>
-
-> **&#9889; Architecture Deep Dive**  
-> Solved **Socket Scaling** using **Redis Pub/Sub** to synchronize Yjs CRDT state across multiple server nodes &mdash; enabling horizontal scaling without sticky sessions. Implemented a **Dockerized Sandbox** with 512MB RAM, 0.5 CPU, and no-network isolation for secure code execution across 8+ languages.
+> **Architecture Deep Dive:** Solved **Socket Scaling** using **Redis Pub/Sub** to synchronize Yjs CRDT state across multiple server nodes for horizontal scaling without sticky sessions. Dockerized Sandbox with 512MB RAM, 0.5 CPU, no-network.
 
 <br/>
-<div align="center">
-  <a href="https://github.com/ShashwaTTrigunayaT/AetherStudio"><img src="https://img.shields.io/badge/%F0%9F%94%8D_View_Source_Code-0A0A0C?style=for-the-badge&logo=github&logoColor=b89450" /></a>
-</div>
+<div align="center"><a href="https://github.com/ShashwaTTrigunayaT/AetherStudio"><img src="https://img.shields.io/badge/%F0%9F%94%8D_View_Source_Code-0A0A0C?style=for-the-badge&logo=github&logoColor=b89450" /></a></div>
 
 ---
 
@@ -87,21 +81,11 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24" /> Coding Metrics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0a0c&title_color=b89450&icon_color=b89450&text_color=rgba(255,255,255,0.4)&border_radius=10" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0c&title_color=b89450&text_color=rgba(255,255,255,0.4)&border_radius=10&langs_count=8" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShashwaTTrigunayaT&theme=dark&background=0a0a0c&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashwaTTrigunayaT&theme=onedark&column=5&margin-w=15&margin-h=15&no-bg=true" width="95%" alt="GitHub Trophies" />
 </div>
 
 ---
