@@ -96,8 +96,8 @@
 ## &#128200; GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0a0c&title_color=b89450&icon_color=b89450&text_color=rgba(255,255,255,0.4)&border_radius=10" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0c&title_color=b89450&text_color=rgba(255,255,255,0.4)&border_radius=10&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashwaTTrigunayaT&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0a0a0c&title_color=b89450&icon_color=b89450&text_color=8b949e" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwaTTrigunayaT&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0c&title_color=b89450&text_color=8b949e" height="160" />
 </div>
 
 ---
