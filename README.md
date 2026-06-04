@@ -40,7 +40,6 @@
 </div>
 
 <br/>
-
 | Sync Latency | Sandbox Limit | Languages |
 |:-----------:|:------------:|:--------:|
 | **<50ms** Yjs CRDT | **512MB** RAM per Container | **12+** Docker Exec |
@@ -96,7 +95,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwaTTrigunayaT&theme=react-dark&bg_color=0a0a0c&hide_border=true&area=true&color=b89450&line=b89450&point=d4bc80&area_color=b89450" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=ShashwaTTrigunayaT&theme=dark&background=0a0a0c&stroke=b89450&ring=b89450&fire=d4bc80&currStreakNum=b89450&sideNums=b89450&currStreakLabel=b89450&sideLabels=rgba(255,255,255,0.3)&dates=rgba(255,255,255,0.3)" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashwaTTrigunayaT&theme=darkhub&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" width="95%" alt="GitHub Trophies" />
 </div>
 
 ---
